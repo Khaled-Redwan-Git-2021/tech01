@@ -1,3 +1,29 @@
 body{
     font-family: 'Abel', sans-serif;
 }
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.sec01{
+    display: flex;
+    width: 50%;
+
+}
+.img01{
+    width: 5%;
+    height: 5%;
+}
+.div1{
+    width: 100%;
+
+}
+.div1 p{
+    text-align: justify;
+    padding-right: 2px;
+}
